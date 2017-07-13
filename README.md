@@ -1,2 +1,2 @@
 # mres
-Masters by Research, for data, code, and writing.
+M.Sc. by Research, for data and code.
