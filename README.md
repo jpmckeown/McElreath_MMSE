@@ -1,2 +1,2 @@
 # mres
-M.Sc. by Research, repository for sharing data and code with supervisor.
+M.Sc. by Research, repository for code and data.
