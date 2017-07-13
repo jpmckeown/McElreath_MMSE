@@ -1,2 +1,3 @@
 # mres
-M.Sc. by Research, for data and code.
+M.Sc. by Research, repository for sharing data and code with supervisor. 
+John McKeown.
